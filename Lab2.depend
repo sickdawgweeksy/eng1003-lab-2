@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583033070 source:c:\users\timmy\onedrive\desktop\code blocks\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1583033070 source:c:\users\timmy\onedrive\desktop\code blocks\lab2\tempconversion.c
+	<stdio.h>
+	<stdlib.h>
+
