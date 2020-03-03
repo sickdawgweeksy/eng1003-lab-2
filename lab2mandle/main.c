@@ -19,7 +19,7 @@ int main()
     while (((xn*xn)+(yn*yn) < 4) && (counter < count)){
 
     xtemp = ((xn*xn)-(yn*yn)) +x0;
-    yn = (2*xn*yn)+y0; // the problem was the y is calculating with the new coordinate rather than the old one
+    yn = (2*xn*yn)+y0; // the problem was the y is calculating with the new coordinate rather than the old one which is why xtemp is needed
     xn = xtemp;
 
     printf("%f\n", xn);
