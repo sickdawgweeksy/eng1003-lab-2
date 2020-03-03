@@ -5,7 +5,7 @@ int main()
 { float x0, y0, xn, yn, xtemp;
   int count, counter;
 
-  counter=0;
+  counter=1;
 
     printf("Welcome to the Mandlebrot Set coordinate tester\nHere we test if your complex coordinate is in the Mandlebrot Set\n");
     printf("Please input your real number coordinate that is NOT the coeeficient of i or if you would prefer the a in a+bi: ");
